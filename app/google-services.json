@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313576929981",
+    "project_id": "golf-club-project",
+    "storage_bucket": "golf-club-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313576929981:android:734bad9e6a845139b2d5d4",
+        "android_client_info": {
+          "package_name": "golf_club_project.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313576929981-jok156h0cmn0jvj0cs3bcar6nd42ikv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlIPjInPgUuLZt7joOd0BdQ-fCTRJr5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313576929981-jok156h0cmn0jvj0cs3bcar6nd42ikv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
