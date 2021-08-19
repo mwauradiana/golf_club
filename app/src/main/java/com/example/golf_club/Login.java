@@ -152,7 +152,7 @@ public class Login extends AppCompatActivity {
                 //identify user access level
                 if(documentSnapshot.getString("isAdmin")!=null){
                     //user is admin
-                    startActivity(new Intent(getApplicationContext(),admin_dashboard.class));
+                    //startActivity(new Intent(getApplicationContext(),admin_dashboard.class));
                     finish();
                 }
                 if(documentSnapshot.getString("isUser") !=null){

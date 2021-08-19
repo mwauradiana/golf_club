@@ -40,24 +40,24 @@ public class MainHomePage extends AppCompatActivity {
     }
 
     public void ustawi_view(View view){
-        Intent intent = new Intent(this, Apply_Loan.class);
+        Intent intent = new Intent(this, Ustawi.class);
         startActivity(intent);
 
 
     }
 
     public void hadharani_view(View view){
-        Intent intent = new Intent(this, LoanCalculatorActivity.class);
+        Intent intent = new Intent(this, Hadharani.class);
         startActivity(intent);
     }
 
     public void jambo_view(View view){
-        Intent intent = new Intent(this, Loan_Type_Member.class);
+        Intent intent = new Intent(this, Jambo.class);
         startActivity(intent);
     }
 
     public void salama_view(View view){
-        Intent intent = new Intent(this, Loan_Type_Member.class);
+        Intent intent = new Intent(this, Salama.class);
         startActivity(intent);
     }
 
